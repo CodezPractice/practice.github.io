@@ -1,13 +1,8 @@
-# C语言程序设计
+# 女生节快乐
 
-> An awesome project.
+> Happy Girl's Day
 
-## 数据结构
-### 二叉树
-> BiTree
+## 恭喜你获得一张女生节套餐券
 ```
-printf("hello world);
+凭此券可获得一次大餐机会！
 ```
-
-[**攻略**](https://zhuanlan.zhihu.com/p/56943330)
-[**虎年**](README.md)
